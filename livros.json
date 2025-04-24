@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "nome": "Entendendo Algoritmos",
+        "genero": "programação"
+    },
+    {
+        "id": "2",
+        "nome": "Estruturas de Dados e Algoritmos em Java",
+        "genero": "programação"
+    },
+    {
+        "id": "3",
+        "nome": "Clean Code: Habilidades Práticas do Agile Software",
+        "genero": "programação"
+    },
+    {
+        "id": "4",
+        "nome": "Introdução à Programação com Python",
+        "genero": "programação"
+    },
+    {
+        "id": "5",
+        "nome": "Algoritmos: Teoria e Prática",
+        "genero": "programação"
+    },
+    {
+        "id": "6",
+        "nome": "Estruturas de Dados e Algoritmos com JavaScript",
+        "genero": "programação"
+    },
+    {
+        "id": "7",
+        "nome": "Programação Funcional com Scala",
+        "genero": "programação"
+    },
+    {
+        "id": "8",
+        "nome": "O Poder da Ação",
+        "genero": "ação"
+    },
+    {
+        "id": "9",
+        "nome": "Tempestade de Ônix",
+        "genero": "ação"
+    },
+    {
+        "id": "10",
+        "nome": "Quarto de Despejo",
+        "genero": "ação"
+    },
+    {
+        "id": "11",
+        "nome": "As Crônicas de Nárnia",
+        "genero": "aventura"
+    },
+    {
+        "id": "12",
+        "nome": "Sempre Você (Parte I)",
+        "genero": "ação"
+    },
+    {
+        "id": "13",
+        "nome": "Fúria da Lua Cheia",
+        "genero": "ação"
+    },
+    {
+        "id": "14",
+        "nome": "Proibida: Império Wolf",
+        "genero": "ação"
+    },
+    {
+        "id": "15",
+        "nome": "A Esposa Rejeitada do Mafioso Cruel",
+        "genero": "ação"
+    },
+    {
+        "id": "16",
+        "nome": "Até Você Ser Minha",
+        "genero": "ação"
+    },
+    {
+        "id": "17",
+        "nome": "11 Melhores Livros de Aventura de Todos os Tempos",
+        "genero": "aventura"
+    },
+    {
+        "id": "18",
+        "nome": "22 Melhores Livros de Fantasia Para Todos os Leitores",
+        "genero": "fantasia"
+    },
+    {
+        "id": "19",
+        "nome": "10 Melhores Livros de Ação e Aventura para Explorar Agora!",
+        "genero": "aventura"
+    },
+    {
+        "id": "20",
+        "nome": "Os 50 Melhores Livros para Ler Antes de Morrer",
+        "genero": "aventura"
+    },
+    {
+        "id": "21",
+        "nome": "Orgulho e Preconceito",
+        "genero": "romance"
+    },
+    {
+        "id": "22",
+        "nome": "O Nome do Vento",
+        "genero": "fantasia"
+    },
+    {
+        "id": "23",
+        "nome": "Guerra dos Tronos",
+        "genero": "fantasia"
+    },
+    {
+        "id": "24",
+        "nome": "O Ladrão de Raios",
+        "genero": "aventura"
+    },
+    {
+        "id": "25",
+        "nome": "O Senhor dos Anéis",
+        "genero": "fantasia"
+    },
+    {
+        "id": "26",
+        "nome": "O Hobbit",
+        "genero": "fantasia"
+    },
+    {
+        "id": "27",
+        "nome": "Percy Jackson e os Olimpianos",
+        "genero": "fantasia"
+    },
+    {
+        "id": "28",
+        "nome": "Crepúsculo",
+        "genero": "romance"
+    },
+    {
+        "id": "29",
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "genero": "fantasia"
+    },
+    {
+        "id": "30",
+        "nome": "O Código Da Vinci",
+        "genero": "ação"
+    },
+    {
+        "id": "31",
+        "nome": "Jogos Vorazes",
+        "genero": "aventura"
+    },
+    {
+        "id": "32",
+        "nome": "A Seleção",
+        "genero": "romance"
+    },
+    {
+        "id": "33",
+        "nome": "Os Bridgertons",
+        "genero": "romance"
+    },
+    {
+        "id": "34",
+        "nome": "Maze Runner",
+        "genero": "aventura"
+    },
+    {
+        "id": "35",
+        "nome": "A Mulher na Janela",
+        "genero": "suspense"
+    },
+    {
+        "id": "36",
+        "nome": "O Pequeno Príncipe",
+        "genero": "aventura"
+    },
+    {
+        "id": "37",
+        "nome": "Divergente",
+        "genero": "aventura"
+    },
+    {
+        "id": "38",
+        "nome": "Cidade dos Ossos",
+        "genero": "fantasia"
+    },
+    {
+        "id": "39",
+        "nome": "Eragon",
+        "genero": "fantasia"
+    },
+    {
+        "id": "40",
+        "nome": "A Bússola de Ouro",
+        "genero": "fantasia"
+    },
+    {
+        "id": "41",
+        "nome": "Sherlock Holmes: Um Estudo em Vermelho",
+        "genero": "mistério"
+    },
+    {
+        "id": "42",
+        "nome": "O Caçador de Pipas",
+        "genero": "romance"
+    },
+    {
+        "id": "43",
+        "nome": "Inferno",
+        "genero": "ação"
+    },
+    {
+        "id": "44",
+        "nome": "Duna",
+        "genero": "fantasia"
+    },
+    {
+        "id": "45",
+        "nome": "Senhor das Moscas",
+        "genero": "aventura"
+    },
+    {
+        "id": "46",
+        "nome": "A Sombra do Vento",
+        "genero": "romance"
+    },
+    {
+        "id": "47",
+        "nome": "O Guia do Mochileiro das Galáxias",
+        "genero": "aventura"
+    },
+    {
+        "id": "48",
+        "nome": "Morte Súbita",
+        "genero": "romance"
+    },
+    {
+        "id": "49",
+        "nome": "Os Miseráveis",
+        "genero": "romance"
+    },
+    {
+        "id": "50",
+        "nome": "O Conto da Aia",
+        "genero": "ficção distópica"
+    }
+]

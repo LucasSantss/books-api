@@ -1,0 +1,27 @@
+{
+  "name": "lucas-books-server",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000o\u0000o\u0000k\u0000s\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/LucasSantss/books-server#readme",
+  "bugs": {
+    "url": "https://github.com/LucasSantss/books-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSantss/books-server.git"
+  },
+  "license": "ISC",
+  "author": "Lucas Santss",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}

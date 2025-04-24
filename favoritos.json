@@ -1,0 +1,35 @@
+[
+    {
+        "id": "7",
+        "nome": "Guia básico de C#"
+    },
+    {
+        "id": "8",
+        "nome": "Guia básico de JavaScript"
+    },
+    {
+        "id": "5",
+        "nome": "Algoritmos: Teoria e Prática",
+        "genero": "programação"
+    },
+    {
+        "id": "7",
+        "nome": "Programação Funcional com Scala",
+        "genero": "programação"
+    },
+    {
+        "id": "22",
+        "nome": "O Nome do Vento",
+        "genero": "fantasia"
+    },
+    {
+        "id": "19",
+        "nome": "10 Melhores Livros de Ação e Aventura para Explorar Agora!",
+        "genero": "aventura"
+    },
+    {
+        "id": "28",
+        "nome": "Crepúsculo",
+        "genero": "romance"
+    }
+]
